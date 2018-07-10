@@ -8170,3 +8170,7 @@ header.half-height .lecture-nav a.nav-btn.complete,header.half-height .lecture-n
 .th-center {
     text-align: center!important;
 }
+.jumbotron {
+    padding-top: 100px;
+    padding-bottom: 105px;
+}
